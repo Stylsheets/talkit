@@ -1,3 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Encode+Sans:wght@300;400;500;600;700&family=Flow+Circular&display=swap');
+
 @tailwind base;
+
+*{
+    font-family: 'Encode Sans', sans-serif;
+}
+
+
 @tailwind components;
 @tailwind utilities;
