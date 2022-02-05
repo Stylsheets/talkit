@@ -9,6 +9,7 @@
   "dependencies": {
     "@headlessui/vue": "^1.4.3",
     "@tailwindcss/forms": "^0.4.0",
+    "animejs": "^3.2.1",
     "pinia": "^2.0.9",
     "vue": "^3.2.27",
     "vue-router": "^4.0.12"
