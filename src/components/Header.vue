@@ -6,16 +6,16 @@
             <img src="../assets/logo.svg" class="h-full w-full" alt="logo">
         </div>
         <div
-          class="flex bg-gray-50 h-14 w-72 px-4 items-center rounded-xl"
+          class="flex bg-gray-50 h-10 px-4 items-center rounded-xl"
         >
           <input
-            class="bg-gray-50 mr-8 outline-none border-none text-gray-400"
+            class="bg-gray-50 focus:border-none focus:outline-none border-none text-gray-400"
             type="text"
             placeholder="Type to search"
           />
           <a
             href="#"
-            class="bg-white h-10 w-10 rounded-xl flex items-center justify-center border border-gray-200"
+            class="bg-white h-8 flex-shrink-0 w-8 rounded-xl flex items-center justify-center border border-gray-200"
           >
             <svg
               class="text-gray-600"
@@ -36,22 +36,22 @@
         </div>
       </div>
       <div class="flex items-center h-full relative">
-        <a href="#" class="mx-10 text-lg font-semibold text-gray-400">Grades</a>
-        <a href="#" class="mx-10 text-lg font-semibold text-gray-400"
+        <a href="#" class="mx-5 text-md font-semibold text-gray-400">Grades</a>
+        <a href="#" class="mx-5 text-md font-semibold text-gray-400"
           >Schedule</a
         >
-        <a href="#" class="mx-10 text-lg font-semibold text-gray-400"
+        <a href="#" class="mx-5 text-md font-semibold text-gray-400"
           >Comunnity</a
         >
         <div class="relative h-full flex items-center">
-          <a href="#" class="mx-10 text-lg font-semibold text-gray-700"
+          <a href="#" class="mx-5 text-md font-semibold text-gray-700"
             >Payments</a
           >
           <span
             class="block absolute bg-[#543FDD] bottom-0 transform translate-x-10 w-20 h-0.5"
           ></span>
         </div>
-        <a href="#" class="mx-10 text-lg font-semibold text-gray-400">Grades</a>
+        <a href="#" class="mx-5 text-md font-semibold text-gray-400">Grades</a>
         <a
           class="h-9 w-9 mr-14 relative rounded-xl border border-gray-300 flex justify-center items-center bg-gray-100"
           href="#"
